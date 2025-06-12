@@ -12,7 +12,9 @@
 <body>
     <div class="fond">
         <div class="cartouche">
-            <img src="img/otoveil.jpeg" alt="logo" class="logo">
+            <div class="logo">
+                <img src="img/otoveil.jpeg" alt="logo" class="logo">
+            </div>
             <div class="titre">
                 <h1>Deux versions</h1>
                 <h1>de</h1>
