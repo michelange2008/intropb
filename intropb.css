@@ -37,10 +37,6 @@ li {
     margin: auto;
 }
 
-.vignettes {
-    margin: 5px;
-}
-
 .vignettes:hover {
     box-shadow: 2px 2px 5px black;
 }
@@ -59,8 +55,12 @@ li {
     .logo {
         width: 100px;
      }
-    h1, h3, p {
+    h1, h3 {
         font-size:medium;
+    }
+
+    p {
+        font-size: small;
     }
     
     .fond {
