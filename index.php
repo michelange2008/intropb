@@ -30,7 +30,7 @@
                 </li>
                 <li>
                     Une version améliorée pour les vaches laitières qui a été réalisée
-                    par le projet ACSA en Bourgogne Franche-Comté.
+                    par le projet <a href="acsa-santeanimale.fr"> ACSA</a> en Bourgogne Franche-Comté.
                 </li>
             </ol>
             <p style="font-style: italic;">Nous espérons à terme pouvoir faire une version améliorée de Panse-Bêtes
