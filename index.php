@@ -12,17 +12,14 @@
 <body>
     <div class="fond">
         <div class="cartouche">
-            <div class="logo">
-                <img src="img/otoveil.jpeg" alt="logo" class="logo">
+            <div class="cadre-logo">
+                <img src="img/acsa_itab_otoveil.jpeg" alt="logo" class="logo">
             </div>
             <div class="titre">
-                <h1>Deux versions</h1>
-                <h1>de</h1>
-                <h1>Panse-bêtes</h1>
+                <h1 style="color: #125e6b;">Panse-bêtes: deux versions</h1>
             </div>
         </div>
         <div class="main">
-            <p>Il y a aujourd'hui deux versions de panse-bêtes:</p>
             <ol>
                 <li>
                     La version originale, créée lors du casdar Otoveil
@@ -36,7 +33,7 @@
             <p style="font-style: italic;">Nous espérons à terme pouvoir faire une version améliorée de Panse-Bêtes
                 pour toutes les espèces.
             </p>
-            <h3>
+            <h3 style="text-align: center;">
                 En cliquant sur l'atelier correspondant à votre élevage,
                 vous serez redirigés vers la version adaptée.
             </h3>

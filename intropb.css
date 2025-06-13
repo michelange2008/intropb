@@ -21,9 +21,18 @@ li {
     height: 90vh
 }
 
+.cadre-logo {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 80%;
+}
+
 .cartouche {
     display: flex;
-    gap: 5px;
+    flex-direction: column;
     align-items: center;
 }
 
@@ -52,28 +61,19 @@ li {
     body {
         margin: 0;
     }
-    .logo {
-        width: 100px;
-     }
-    h1, h3 {
-        font-size:medium;
-    }
-
-    p {
-        font-size: small;
-    }
-    
-    .fond {
-        height: 100vh;
-    }
 
     p,
     li {
         padding-bottom: 0px;
     }
-
+    
     .fond {
+        height: 100vh;
         padding: 30px;
+    }
+
+    .logo {
+        width: 100%;
     }
 
     .vignettes {
