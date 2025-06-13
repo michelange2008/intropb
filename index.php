@@ -29,15 +29,15 @@
                     et qui est utilisable sur toutes les espèces sauf les vaches laitières.
                 </li>
                 <li>
-                    Une version améliorée pour les vaches laitières qui a été réalisées
+                    Une version améliorée pour les vaches laitières qui a été réalisée
                     par le projet ACSA en Bourgogne Franche-Comté.
                 </li>
             </ol>
-            <p>Nous espérons à terme pouvoir faire une version améliorée de Panse-Bêtes
+            <p style="font-style: italic;">Nous espérons à terme pouvoir faire une version améliorée de Panse-Bêtes
                 pour toutes les espèces.
             </p>
             <h3>
-                Dans l'immédiat, en cliquant sur l'atelier correspondant à votre élevage,
+                En cliquant sur l'atelier correspondant à votre élevage,
                 vous serez redirigés vers la version adaptée.
             </h3>
             <div class="liste-vignettes">
