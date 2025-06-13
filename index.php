@@ -16,7 +16,7 @@
                 <img src="img/acsa_itab_otoveil.jpeg" alt="logo" class="logo">
             </div>
             <div class="titre">
-                <h1 style="color: #125e6b;">Panse-bêtes: deux versions</h1>
+                <h1 style="color: #1d5e69;">Panse-bêtes: deux versions</h1>
             </div>
         </div>
         <div class="main">

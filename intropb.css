@@ -6,8 +6,8 @@ body {
     font-family: 'Roboto Black', sans-serif;
 
     background-color: #125e6b;
-    margin-left: 20%;
-    margin-right: 20%;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 p,
@@ -16,9 +16,10 @@ li {
 }
 
 .fond {
-    padding: 20px;
+    padding: 3%;
+    padding-bottom: 50px;
     background-color: #f58020;
-    height: 90vh
+
 }
 
 .cadre-logo {
@@ -56,10 +57,20 @@ li {
     flex-wrap: wrap;
 }
 
-
-@media screen and (max-width:934px) {
+@media screen and (max-width: 930px) and (min-width: 563px) {
     body {
-        margin: 0;
+        padding-right: 10%;
+        padding-left: 10%;
+    }
+
+    .vignettes {
+        width: 80px;
+    }
+}
+
+@media screen and (max-width:562px) {
+    body {
+        padding: 0;
     }
 
     p,
